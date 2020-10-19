@@ -30,7 +30,7 @@ By a lot.
 
 ![Percentage of deaths in warefare](../img/better-angels-01.png)
 
-Here's a cold, hard breakdown of the numbers:
+A breakdown of the numbers:
 
 > [Two new data sets] conservatively list about 40 million battle deaths during the 20th cenutry...If we consider that a bit more than 6 billion people died during the 20th century...we may estimate that around 0.7 percent of the world's population died in battles during that century. Even if we tripled or quadrupled the estimate to include indirect deaths from war-caused famine and disease, it would barely narrow the gap between state and nonstate societies. What if we added the deaths from genocides, purges and other man-made disasters? Matthew White, the atrocitologist we met in chapter 1, estimates that around 80 million deaths can be blamed on all of these human causes put together. That still amounts to only 3 percent of the deaths in the 20th century. (p. 50)
 
@@ -48,7 +48,7 @@ Pinker identifies three causes of violence:
 1. Safety (preemptive raids)
 1. Reputation (retalitory raids)
 
-The first two, Pinker argues (as have many before him), are typically perpetrated by state actors, but as modern wealth tends to be accrued not through occupying physical territory but through trade and the production of advanced goods and services, land wars become nonsensical, almost defeatist, since they destroy the modern means of wealth creation (people and economies).
+The first two, Pinker argues are typically perpetrated by state actors, but as modern wealth tends to be accrued not through occupying physical territory but through trade and the production of advanced goods and services, land wars become nonsensical, almost defeatist, since they destroy the modern means of wealth creation (people and economies).
 
 # The Civilizing Process - How violence has declined
 
@@ -117,4 +117,39 @@ The first explanation Pinker reaches for is television, that baby boomers were t
 
 The second exogenous force he locates from sociologist Cas Wouters, who argued that the European Civilizing Process had run its course and was followed by a second wave he calld the *informalizing process*. Whereas the Civilizing Process had been a flow of manners downward from the upper class the rise of democracy and economic progress effectively unmoored the elites as perceived moral paragons and arbiters of taste (p. 110). Dress, speech and manner could be cultivated from mass media like television instead.
 
-While breaking down old power structures may have served the long-term good it led to a short-term rise in violence, according to Pinker.
+While breaking down old power structures may have served the long-term good it led to a short-term rise in violence, according to Pinker. Men abandoned institutions like marriage and traditional career roles (i.e. farmwork) to pursue sexual and economic freedom, and that this process hit the African American community particular hard because of pervasive racism among police and government authorities (p. 116).
+
+# Recivilization in the 1990s
+
+Even tho the homicide rate ballooned to 10.2/100K in 1980 it's still a 1/4 of the rate for Western Europe in 1450, 1/10th of the rate of the traditional Inuit and 1/50th the average rate of nonstate societies.
+
+Theories of the crime decline Pinker disputes:
+- Crack bubble of teenagers (crime fell among older groups too)
+- Economic improvement (Canada's economy got worse but also experienced a decline)
+- Legalized abortion in 1973 (proportion of children born to poor single black women did not decrease, it increased by a lot)
+
+Pinker instead cites two forces:
+
+> I think two overarching explanations are plausible. The first is that the Leviathan got bigger, smarter, and more effective. The second is that the Civilizing Process, which the counterculture had tried to reverse in the 1960s, was restored to its forward direction. (p. 121)
+
+The rate of imprisonment in the U.S. had been steady from 1920-1960 but shot up almost 5x and today it's 2.3 million people or 0.7% (blacks have about a 28.5% chance of being carcerated while whites a 4.4% chance). A classic study of criminal records in Philly found that 6% of the young male population committed more than half the offenses. Incarceration beyond the most violent offenders has diminishing returns. (p. 123)
+
+Another factor is the ballooning of police, in particular the addition of 100k police officers as part of the 1994 crime bill signed by Bill Clinton. Broken Windows theory of targeting minor offenses may have had an impact but it's hard to tell.
+
+# The Humanitarian Revolution
+
+Pinker summarizes the history of torture, which, as you might imagine, is not good, but pivots to the second half of the 18th century, the Enlightenment, or the Humanitarian Revolution, as a massive re-imagining of how humans treated each other.
+
+Human sacrifice is ancient practice, recounted in the Bible (p. 134) and seen all across the world from the Aztecs to China, Sumeria, Egypt and Japan. Political scientist James Payne suggests ancient peoples put a low value on other people's lives because pain and death were so common in their own (p. 135). Died out on its own around 600-400 B.C. in most places.
+
+Witchcraft is one of the most common motives for revenge among hunter-gather and tribal societies (p. 137). French and German witch-hunters killed between 60-100k witches (85% women) in the 16th and 17th centuries. Usually preceded by graphic torture. Witch hunting ended when states started to ban it.
+
+Pinker singles out religion for de-humanizing out-group peoples as blasphemers, heretics and apostates who deserved violence (p. 139), and recounts the history of sanctioned Christian violence, along with some particularly graphic torture mechanisms.
+
+One influential writer against barbarity was 18th century Milanese economist and social scientist Cesare Beccaria, whose 1764 bestseller *On Crimes and Punishments* argued the goal of a justice system should be to attain the greatest happiness to the greatest number of people, that punishment should be used as a deterrent and be proportional to the harm of the crime. The Vatican banned the book but over time his arguments became common wisdom (p. 148).
+
+# Slavery
+
+Between the 16th and 19th centuries at least 1.5 million Africans died in transatlantic slave ships (p. 153) and millions more perished in forced marches through jungles and deserts. At last 17 million (and perhaps as many as 65 million) died in the slave trade (p. 154).
+
+The economic benefit of slaves has been debated for centuries but even Adam Smith in 1776 argued that slavery was inefficient because a slave would not be motivated to do any work beyond the bare minimum necessary since they had nothing to gain from it.
