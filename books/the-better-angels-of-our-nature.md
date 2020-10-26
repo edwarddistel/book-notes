@@ -89,8 +89,8 @@ He argues violence is caused by a "surfeit" of morality and justice, at least in
 
 Quoting statistics from the World Health Organization's 2004 data set (p. 87):
 
-| Area | Homicide rate/100K/year |
-| ---- | ----------------------- |
+| Area | Homicide rate - 100K/year |
+| ---- | ------------------------- |
 | World | 6 |
 | United States | 5 |
 | Europe | 3 |
@@ -129,7 +129,7 @@ Pinker instead cites two forces:
 
 > I think two overarching explanations are plausible. The first is that the Leviathan got bigger, smarter, and more effective. The second is that the Civilizing Process, which the counterculture had tried to reverse in the 1960s, was restored to its forward direction. (p. 121)
 
-The rate of imprisonment in the U.S. had been steady from 1920-1960 but shot up almost 5x and today it's 2.3 million people or 0.7% (blacks have about a 28.5% chance of being carcerated while whites a 4.4% chance). A classic study of criminal records in Philly found that 6% of the young male population committed more than half the offenses. Incarceration beyond the most violent offenders has diminishing returns. (p. 123)
+The rate of imprisonment in the U.S. had been steady from 1920-1960 but shot up almost 5x and today it's **2.3 million** people or **0.7%** (blacks have about a **28.5%** chance of being carcerated while whites a **4.4% chance**). A classic study of criminal records in Philly found that **6%** of the young male population committed more than half the offenses. Incarceration beyond the most violent offenders has diminishing returns. (p. 123)
 
 Another factor is the ballooning of police, in particular the addition of 100k police officers as part of the 1994 crime bill signed by Bill Clinton. Broken Windows theory of targeting minor offenses may have had an impact but it's hard to tell.
 
@@ -139,7 +139,7 @@ Pinker summarizes the history of torture, which, as you might imagine, is not go
 
 Human sacrifice is ancient practice, recounted in the Bible (p. 134) and seen all across the world from the Aztecs to China, Sumeria, Egypt and Japan. Political scientist James Payne suggests ancient peoples put a low value on other people's lives because pain and death were so common in their own (p. 135). Died out on its own around 600-400 B.C. in most places.
 
-Witchcraft is one of the most common motives for revenge among hunter-gather and tribal societies (p. 137). French and German witch-hunters killed between 60-100k witches (85% women) in the 16th and 17th centuries. Usually preceded by graphic torture. Witch hunting ended when states started to ban it.
+Witchcraft is one of the most common motives for revenge among hunter-gather and tribal societies (p. 137). French and German witch-hunters killed between **60-100k** witches (**85%** women) in the 16th and 17th centuries. Usually preceded by graphic torture. Witch hunting ended when states started to ban it.
 
 Pinker singles out religion for de-humanizing out-group peoples as blasphemers, heretics and apostates who deserved violence (p. 139), and recounts the history of sanctioned Christian violence, along with some particularly graphic torture mechanisms.
 
@@ -155,7 +155,7 @@ The economic benefit of slaves has been debated for centuries but even Adam Smit
 
 # Depostism and political violence
 
-A government, according to a famous characterization by 20th C German sociologust Max Weber, is an institution that holds a monopoly on the legitimate use of violence, and according to anthropologist Laura Betzig that virtually all of the Bronze Age and Iron Age societies (Babylonians, Hebrews, Imperial Romans, Samoans, Khmer, Aztec, etc) demonstrated despotism (p. 158).
+A government, according to a famous characterization by 20th C German sociologist Max Weber, is an institution that holds a monopoly on the legitimate use of violence, and according to anthropologist Laura Betzig that virtually all of the Bronze Age and Iron Age societies (Babylonians, Hebrews, Imperial Romans, Samoans, Khmer, Aztec, etc) demonstrated despotism (p. 158).
 
 In most of human history the primary mechanism for the transfer of power was political murder (p. 159). E.g. Biblical kings Saul, David, Solomon; Julius Caesar was one of 34 Roman emperors assassinated (**34/49**, or **69%** until division of empire). Swiss criminologist Manuel Eisner stimates between 600 and 1800 AD about **1/8 (12.5%)** Euroepean monarchs were murdered in office (p. 159). The designs of democracies in the 18th century, despite their obvious flaws (e.g. slavery), led to a decline in despotism.
 
@@ -189,5 +189,22 @@ Pinker examines several theories:
 
 Before Pinker settles in on his major thesis of the book:
 
-```
-The **growth of writing and literacy** [emphasis mine] strikes me as the best candidate for an exogenous change that helped set off the Humanitarian revolution 
+
+> The **growth of writing and literacy** [emphasis mine] strikes me as the best candidate for an exogenous change that helped set off the Humanitarian Revolution...the expansion of people's minds could have added a dose of humanitarianism to their emotions and beliefs. (p. 174).
+
+# Rise of empathy
+
+"Reading is a technology for perspective-taking," (p. 175) and European History professor Lynn Hunt points out that "the heyday of the Humanitarian Revolution, the late 18th century, was also the heyday of the epistolary novel" (p. 176) and that "the full-strength causal hypothesis may be omre than a fantasy of English teachers" (p. 177) by pointing out influental novels like *Oliver Twist* (1838), *Uncle Tom's Cabin* (1852) and *All Quiet on the Western Front* (1929) just to name a few.
+
+Harvard economist Edward Glaesar credits the rise of cities with the emergence of liberal democracy (p. 179). In a oppressive state autocrats have a strong incentive to remain in power and citizens face the **free-rider problem** where no individual citizen has an incentive to depose an autocrat and risk reprisals while the benefits would flow to others, but the a city can bring together a crucible of financiers, lawyers, writers, can converge to diffuse risk.
+
+Pinker argues that when a large community of free thinkers guided by logical principles gather they will inevitably converge on basic principles of human rights, and that: 
+
+> The reason so many violent institutions succumbed within so short a span of time was that the arguments that slew them belong to a coherent philosophy that emerged during the Age of Reason and the Enlightment. The ideas of thinkers like Hobbes, Spinoza, Decartes, Locke, David Hume, Mary Astell, Kant, Beccaria, Smith Mary Wollstonecraft, Madison, Jefferson, Hamilton and John Stuart Mill coalesced into a worldview that we can call Enlightenment humanism. (p. 180).
+
+Skepticism, reason are the key qualities that drove such movements, and the "commmonality of basic human responses across cultures" implies there is a universal human nature (p. 182) and that the "universality of reason...defines a place for morality." That morality leads to mutually beneficial cooperation (a concept he zeroes in on at the end of the book when he discussed how most life situations can be seen as an Iterated Prisoner's Dilemma). The idea that Pinker is building is that morality, guided by the idea of the universality of human nature, provides a framework to engage in mutually beneficial cooperation and the overall long-term progress of the human race.
+
+Some will find this argument "banal and obvious" (p. 183) but that's only because the lessons of the Enlightenment have been so thoroughly absorbed. In his earlier book **The Blank Slate** (2002) Pinker quotes himself as arguing that conservatives and liberals have two extreme visions of human nature: "a Tragic vision that is resigned to its flaws, an a Utopian vision that denies it exists" (p. 186), but the human mind is not a blank slate and should be guided by logic and reason.
+
+# The Long Peace
+
