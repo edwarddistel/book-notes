@@ -240,7 +240,7 @@ The bloodiest wars in history then were:
 | 3 | Mideast slave trade (7-19th C) | 132 mil |
 | 4 | Fall of Ming Dynasty (17th C) | 112 mil |
 | 5 | Fall of Rome (3-5th C) | 105 mil |
-| 6 | Timur Lenk (14-15h C) | 100 mil |
+| 6 | Timur Lenk (14-15th C) | 100 mil |
 | 7 | Annihilation of American Indians (15-19th C) | 92 mil |
 | 8 | Atlantic slave trade (15-19th C) | 83 mil |
 | 9 | Second World War | 55 mil |
@@ -256,4 +256,26 @@ While the numbers of historical killings are often inaccurate we also have a lot
 
 One of the hardest to understand but most important conclusions from Richardson's statistical analyisis is that **wars happen randomly**.
 
-Humans seek patterns and have a hard time rationilizing randomness and understanding probability. A **Poisson process** (pronounced *pwah-sonh*), named after 19th C mathematician and physicist Sim&eacute;on-Denis Poisson, is where events occur continuously, randomly, and independently of one another. Humans adopt cognitive illusions to patternize Poisson processes, i.e. **the gambler fallacy** ('number 7 is due to come up next'), **the birthday paradox** (with 57 people in a room the chances two people share a birthday is 99%, creating the illusion of a cluster), **Constellations** (Seeing patterns in stars and other random noise) are all examples (p. 204).
+Humans seek patterns and have a hard time rationilizing randomness and understanding probability. A **Poisson process** (pronounced *pwah-sonh*), named after 19th C mathematician and physicist Sim&eacute;on-Denis Poisson, is where events occur continuously, randomly, and independently of one another. Humans adopt cognitive illusions to patternize Poisson processes, e.g.:
+
+- **the gambler fallacy** ('number 7 is due to come up next')
+- **the birthday paradox** (with 57 people in a room the chances two people share a birthday is 99%, creating the illusion of a cluster)
+- **Constellations** (Seeing patterns in stars and other random noise) are all examples (p. 204).
+
+and many more.
+
+Richardson showed in his dataset of violence that war events are guided by a Poisson process and that they stop and start at random, and this undermines historical narratives that sees wars "in illusory clusters" (p. 206) and "confounds" theories that see grand patterns, cycles and dialectics in history. Richardson examined a number of possible cycles for wars of magnitudes 3, 4, and 5 (the bloodiest wars being too spare for analysis) and found none (p. 207).
+
+It's not that wars don't have individual causes (assassination of Franz Ferdinand, whims of Adolf Hitler) but when one zooms out to a larger perspective to look at human aggression wars between human collectives start and stop with random frequency (p. 209).
+
+Once wars have been categorized logarthimically and plotted over time, what is the underlying trend?
+
+In none of the 5 ranges (3-7) did Richardson find an incrase, in fact he found a significant decline:
+
+> There is a suggestion but not a conclusive proof that mankind has become less warlike since A.D. 1820. The best available observations show a slight decrease in the number of wars with time. (p. 210).
+
+Other data sets confirm this, that the pattern of war was less over time **but** that they became bloodier and more lethal. Pinker asks does this mean mankind became more warlike or less and says "there is no easy answer." (p. 210).
+
+It turns out the frequency of war when measured with their magnitudes over time follows a **power-law distribution** (the name comes from the fact that when you put away the logarithms and go back to the original numbers the probability of an entity showing up in the data is proportional to the size of that entity raised to some power plus a constant). In this case the power is -1.5, which means that with every tenfold jump in the death toll of a war you can expect to find about a third as many of them.
+
+![Power-law distribution of wars](../img/better-angels-03.jpg)
