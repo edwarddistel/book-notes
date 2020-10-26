@@ -6,7 +6,7 @@ By Steven Pinker
 
 ## About the author
 
-Steven Pinker is oe of America's leading public intellectuals.
+Steven Pinker is of of America's leading public intellectuals.
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Steven_Pinker):
 
@@ -22,23 +22,23 @@ It's definitely not the first book to note the decline of violence but possibly 
 
 # The numbers on the decline in violence
 
-The title itself might come as a shock to most people -- considering world wars, the Holocaust, genocides and other horrors one might assume that the 21st century or at least the 20th cenutry might have been the bloodiest in human history.
+The title itself might come as a shock to most people -- considering world wars, the Holocaust, genocides and other horrors one might assume that the 21st century or at least the 20th century might have been the bloodiest in human history.
 
 You'd be wrong.
 
 By a lot.
 
-![Percentage of deaths in warefare](../img/better-angels-01.png)
+![Percentage of deaths in warfare](../img/better-angels-01.png)
 
 A breakdown of the numbers:
 
-> [Two new data sets] conservatively list about 40 million battle deaths during the 20th cenutry...If we consider that a bit more than **6 billion** people died during the 20th century...we may estimate that around **0.7 percent** of the world's population died in battles during that century. Even if we tripled or quadrupled the estimate to include indirect deaths from war-caused famine and disease, it would barely narrow the gap between state and nonstate societies. What if we added the deaths from genocides, purges and other man-made disasters? Matthew White, the atrocitologist we met in chapter 1, estimates that around **80 million** deaths can be blamed on all of these human causes put together. That still amounts to only **3 percent** of the deaths in the 20th century. (p. 50)
+> [Two new data sets] conservatively list about 40 million battle deaths during the 20th century...If we consider that a bit more than **6 billion** people died during the 20th century...we may estimate that around **0.7 percent** of the world's population died in battles during that century. Even if we tripled or quadrupled the estimate to include indirect deaths from war-caused famine and disease, it would barely narrow the gap between state and nonstate societies. What if we added the deaths from genocides, purges and other man-made disasters? Matthew White, the atrocitologist we met in chapter 1, estimates that around **80 million** deaths can be blamed on all of these human causes put together. That still amounts to only **3 percent** of the deaths in the 20th century. (p. 50)
 
 For hunter-gatherers the rate is around **13.4** percent, for city-dwellers before the modern era it was **2.7 percent**.
 
 For present day? Pinker estimates it's at a rate of **0.0003 percent**.
 
-As Pinker is quick to point out, the major difference maker is the state, which he calls "the Leviathian" (borrowing from 16th C English philosophy Thomas Hobbes), a theoretically neutral third party can establish justice and eliminate threats in the society.
+As Pinker is quick to point out, the major difference maker is the state, which he calls "the Leviathan" (borrowing from 16th C English philosophy Thomas Hobbes), a theoretically neutral third party can establish justice and eliminate threats in the society.
 
 # Why violence occurs
 
@@ -46,7 +46,7 @@ Pinker identifies three causes of violence:
 
 1. Gain (predatory raids)
 1. Safety (preemptive raids)
-1. Reputation (retalitory raids)
+1. Reputation (retaliatory raids)
 
 The first two, Pinker argues are typically perpetrated by state actors, but as modern wealth tends to be accrued not through occupying physical territory but through trade and the production of advanced goods and services, land wars become nonsensical, almost defeatist, since they destroy the modern means of wealth creation (people and economies).
 
@@ -56,7 +56,7 @@ Through what process has violence declined? Presumably people just didn't lay do
 
 Pinker relies heavily on the 1969 work of Norbert Elias *The Civilizing Process*. Elias, a Polish-German Jew who escaped the Holocaust, was the first major author to note the trend in the decline in violence in human history. Pinker writes:
 
-> Elias's theory, then, attributes the decline in European violence to a larger psychological change...He proposed that over a span of several centuries, beginning in the 11th or 12th and maturing in the 17th and 18th, Europeans increasingly inhibited their impulses, anticipated the long-term consequences of their actions, and took other people's thoughts and feelings into consideration. A culture of honor...gave way to a culture of dignity...These ideals originated in explicit instructions that cultural arbiters gave to aristocrats and noblemen, allowing them to differentiate themsleves from the villains and boors. But they were then absorbed into the socialization of younger and younger children until they became second nature. The standards also trickled down from the upper classes to the bourgeoisie that strove to emulate them, and from them to the lower classes, eventually becoming a part of the culture as a whole. (p. 72)
+> Elias's theory, then, attributes the decline in European violence to a larger psychological change...He proposed that over a span of several centuries, beginning in the 11th or 12th and maturing in the 17th and 18th, Europeans increasingly inhibited their impulses, anticipated the long-term consequences of their actions, and took other people's thoughts and feelings into consideration. A culture of honor...gave way to a culture of dignity...These ideals originated in explicit instructions that cultural arbiters gave to aristocrats and noblemen, allowing them to differentiate themselves from the villains and boors. But they were then absorbed into the socialization of younger and younger children until they became second nature. The standards also trickled down from the upper classes to the bourgeoisie that strove to emulate them, and from them to the lower classes, eventually becoming a part of the culture as a whole. (p. 72)
 
 To break out two components of that argument: the state and the nobility.
 
@@ -74,9 +74,9 @@ The empathy and self-control arguments loom large later in the book but I'm not 
 
 He also notes that the upper-class used to be as violent as the lower class (quoting several manners guides that recommended boxing and fighting others) but now violence is largely associated with poverty:
 
-> The main reason that violence correlates with low socioeconomic status today is that the elites and the middle class pursue justice with the legal system while the lower classes reosrt to what scholars of violence call "self-help"...it is another name for vigilantism, fronier justice, taking the law into your own hands (p. 83)
+> The main reason that violence correlates with low socioeconomic status today is that the elites and the middle class pursue justice with the legal system while the lower classes resort to what scholars of violence call "self-help"...it is another name for vigilantism, frontier justice, taking the law into your own hands (p. 83)
 
-He cites legal scholar Donald Black's statistic that as few as 10 percent of homicides are a means to an end (killing a homeowner during a burglary), but that "the most common motives for homicide are moralistic: retaliation after an insult, escalation of a domestic quarrel, punishing an unfaithful romantic partner, and other acts of jealousy, revenge and self-defence....Most homicides, Black notes, are really instances of capital punishment, with a private citizen as the judge, jury and executioner." (p. 83)
+He cites legal scholar Donald Black's statistic that as few as 10 percent of homicides are a means to an end (killing a homeowner during a burglary), but that "the most common motives for homicide are moralistic: retaliation after an insult, escalation of a domestic quarrel, punishing an unfaithful romantic partner, and other acts of jealousy, revenge and self-defense....Most homicides, Black notes, are really instances of capital punishment, with a private citizen as the judge, jury and executioner." (p. 83)
 
 Pinker also disputes three commonly held theories of violence:
 1. They are caused by a deficit of morality and justice
@@ -112,7 +112,7 @@ After a three-decade fall in violence in the U.S. from the Great Depression to p
 
 The first explanation Pinker reaches for is television, that baby boomers were the first generation to grow up with it and that this "common knowledge" led to a "horizontal web of solidarity that cut across the vertical ties to parents and authorities that had formerly isolated young people" (p. 109).
 
-The second exogenous force he locates from sociologist Cas Wouters, who argued that the European Civilizing Process had run its course and was followed by a second wave he calld the *informalizing process*. Whereas the Civilizing Process had been a flow of manners downward from the upper class the rise of democracy and economic progress effectively unmoored the elites as perceived moral paragons and arbiters of taste (p. 110). Dress, speech and manner could be cultivated from mass media like television instead.
+The second exogenous force he locates from sociologist Cas Wouters, who argued that the European Civilizing Process had run its course and was followed by a second wave he called the *informalizing process*. Whereas the Civilizing Process had been a flow of manners downward from the upper class the rise of democracy and economic progress effectively unmoored the elites as perceived moral paragons and arbiters of taste (p. 110). Dress, speech and manner could be cultivated from mass media like television instead.
 
 While breaking down old power structures may have served the long-term good it led to a short-term rise in violence, according to Pinker. Men abandoned institutions like marriage and traditional career roles (i.e. farmwork) to pursue sexual and economic freedom, and that this process hit the African American community particular hard because of pervasive racism among police and government authorities (p. 116).
 
@@ -129,7 +129,7 @@ Pinker instead cites two forces:
 
 > I think two overarching explanations are plausible. The first is that the Leviathan got bigger, smarter, and more effective. The second is that the Civilizing Process, which the counterculture had tried to reverse in the 1960s, was restored to its forward direction. (p. 121)
 
-The rate of imprisonment in the U.S. had been steady from 1920-1960 but shot up almost 5x and today it's **2.3 million** people or **0.7%** (blacks have about a **28.5%** chance of being carcerated while whites a **4.4% chance**). A classic study of criminal records in Philly found that **6%** of the young male population committed more than half the offenses. Incarceration beyond the most violent offenders has diminishing returns. (p. 123)
+The rate of imprisonment in the U.S. had been steady from 1920-1960 but shot up almost 5x and today it's **2.3 million** people or **0.7%** (blacks have about a **28.5%** chance of being incarcerated while whites a **4.4% chance**). A classic study of criminal records in Philly found that **6%** of the young male population committed more than half the offenses. Incarceration beyond the most violent offenders has diminishing returns. (p. 123)
 
 Another factor is the ballooning of police, in particular the addition of 100k police officers as part of the 1994 crime bill signed by Bill Clinton. Broken Windows theory of targeting minor offenses may have had an impact but it's hard to tell.
 
@@ -157,11 +157,11 @@ The economic benefit of slaves has been debated for centuries but even Adam Smit
 
 A government, according to a famous characterization by 20th C German sociologist Max Weber, is an institution that holds a monopoly on the legitimate use of violence, and according to anthropologist Laura Betzig that virtually all of the Bronze Age and Iron Age societies (Babylonians, Hebrews, Imperial Romans, Samoans, Khmer, Aztec, etc) demonstrated despotism (p. 158).
 
-In most of human history the primary mechanism for the transfer of power was political murder (p. 159). E.g. Biblical kings Saul, David, Solomon; Julius Caesar was one of 34 Roman emperors assassinated (**34/49**, or **69%** until division of empire). Swiss criminologist Manuel Eisner stimates between 600 and 1800 AD about **1/8 (12.5%)** Euroepean monarchs were murdered in office (p. 159). The designs of democracies in the 18th century, despite their obvious flaws (e.g. slavery), led to a decline in despotism.
+In most of human history the primary mechanism for the transfer of power was political murder (p. 159). E.g. Biblical kings Saul, David, Solomon; Julius Caesar was one of 34 Roman emperors assassinated (**34/49**, or **69%** until division of empire). Swiss criminologist Manuel Eisner estimates between 600 and 1800 AD about **1/8 (12.5%)** European monarchs were murdered in office (p. 159). The designs of democracies in the 18th century, despite their obvious flaws (e.g. slavery), led to a decline in despotism.
 
 ## Reasons for peace
 
-The 18th century saw the rise of philosophers who questioned war, satirists who mocked it but also the theory of **gentle commerce**, that "positive-sum payoff of trade should be more appealing than the zero- or negative-sum payoff of war" (p. 165), most notably the 1795 essay "The Perpetual Peace" by German philsopher Immanuel Kant, who laid 6 preliminary steps toward peace:
+The 18th century saw the rise of philosophers who questioned war, satirists who mocked it but also the theory of **gentle commerce**, that "positive-sum payoff of trade should be more appealing than the zero- or negative-sum payoff of war" (p. 165), most notably the 1795 essay "The Perpetual Peace" by German philosopher Immanuel Kant, who laid 6 preliminary steps toward peace:
 
 1. Ironclad ceasefires
 1. States should not absorb other states 
@@ -194,21 +194,21 @@ Before Pinker settles in on his major thesis of the book:
 
 ## Rise of empathy
 
-"Reading is a technology for perspective-taking," (p. 175) and European History professor Lynn Hunt points out that "the heyday of the Humanitarian Revolution, the late 18th century, was also the heyday of the epistolary novel" (p. 176) and that "the full-strength causal hypothesis may be omre than a fantasy of English teachers" (p. 177) by pointing out influental novels like *Oliver Twist* (1838), *Uncle Tom's Cabin* (1852) and *All Quiet on the Western Front* (1929) just to name a few.
+"Reading is a technology for perspective-taking," (p. 175) and European History professor Lynn Hunt points out that "the heyday of the Humanitarian Revolution, the late 18th century, was also the heyday of the epistolary novel" (p. 176) and that "the full-strength causal hypothesis may be more than a fantasy of English teachers" (p. 177) by pointing out influential novels like *Oliver Twist* (1838), *Uncle Tom's Cabin* (1852) and *All Quiet on the Western Front* (1929) just to name a few.
 
 Harvard economist Edward Glaesar credits the rise of cities with the emergence of liberal democracy (p. 179). In a oppressive state autocrats have a strong incentive to remain in power and citizens face the **free-rider problem** where no individual citizen has an incentive to depose an autocrat and risk reprisals while the benefits would flow to others, but the a city can bring together a crucible of financiers, lawyers, writers, can converge to diffuse risk.
 
 Pinker argues that when a large community of free thinkers guided by logical principles gather they will inevitably converge on basic principles of human rights, and that: 
 
-> The reason so many violent institutions succumbed within so short a span of time was that the arguments that slew them belong to a coherent philosophy that emerged during the Age of Reason and the Enlightment. The ideas of thinkers like Hobbes, Spinoza, Decartes, Locke, David Hume, Mary Astell, Kant, Beccaria, Smith Mary Wollstonecraft, Madison, Jefferson, Hamilton and John Stuart Mill coalesced into a worldview that we can call Enlightenment humanism. (p. 180).
+> The reason so many violent institutions succumbed within so short a span of time was that the arguments that slew them belong to a coherent philosophy that emerged during the Age of Reason and the Enlightenment. The ideas of thinkers like Hobbes, Spinoza, Descartes, Locke, David Hume, Mary Astell, Kant, Beccaria, Smith Mary Wollstonecraft, Madison, Jefferson, Hamilton and John Stuart Mill coalesced into a worldview that we can call Enlightenment humanism. (p. 180).
 
-Skepticism, reason are the key qualities that drove such movements, and the "commmonality of basic human responses across cultures" implies there is a universal human nature (p. 182) and that the "universality of reason...defines a place for morality." That morality leads to mutually beneficial cooperation (a concept he zeroes in on at the end of the book when he discussed how most life situations can be seen as an Iterated Prisoner's Dilemma). The idea that Pinker is building is that morality, guided by the idea of the universality of human nature, provides a framework to engage in mutually beneficial cooperation and the overall long-term progress of the human race.
+Skepticism, reason are the key qualities that drove such movements, and the "commonality of basic human responses across cultures" implies there is a universal human nature (p. 182) and that the "universality of reason...defines a place for morality." That morality leads to mutually beneficial cooperation (a concept he zeroes in on at the end of the book when he discussed how most life situations can be seen as an Iterated Prisoner's Dilemma). The idea that Pinker is building is that morality, guided by the idea of the universality of human nature, provides a framework to engage in mutually beneficial cooperation and the overall long-term progress of the human race.
 
 Some will find this argument "banal and obvious" (p. 183) but that's only because the lessons of the Enlightenment have been so thoroughly absorbed. In his earlier book *The Blank Slate* (2002) Pinker quotes himself as arguing that conservatives and liberals have two extreme visions of human nature: "a Tragic vision that is resigned to its flaws, an a Utopian vision that denies it exists" (p. 186), but the human mind is not a blank slate and should be guided by logic and reason.
 
 # The Long Peace
 
-Writing directly after World War II, Lewis Fry Richardson was a 20th C British meterologist, psychologist and applied mathematician who applied statistical analysis to a dataset of hundreds of violent conflicts spanning more than a century to predict that despite the horrible bloodshed the world had just endured humanity was getting more peaceful over time (p. 190).
+Writing directly after World War II, Lewis Fry Richardson was a 20th C British meteorologist, psychologist and applied mathematician who applied statistical analysis to a dataset of hundreds of violent conflicts spanning more than a century to predict that despite the horrible bloodshed the world had just endured humanity was getting more peaceful over time (p. 190).
 
 The second half of the 20th C saw a "historically unprecedented" avoidance of war between the great powers which Yale historian John Gaddis has dubbed **The Long Peace**, which was followed by the "equally astonishing" fizzling of the Cold War.
 
@@ -223,9 +223,9 @@ Pinker argues that the components of the long-term trends in wars between states
 
 Was the 20th C really the most violent century of all time?
 
-It's impossible to know because of lack of statistics (we can barely pin down the 20th C) but reasons to be skeptical of the claim: population in in 1950 was **2.5 billion**, which is about 2.5x the pop in 1800, 4.5x times that in 1600, 7x that in 1300, and 15x of 1 AD, meaning a death count in 1600 would have to be multiplied by 4.5 to compare the desctructiveness of two events across time (p. 193).
+It's impossible to know because of lack of statistics (we can barely pin down the 20th C) but reasons to be skeptical of the claim: population in in 1950 was **2.5 billion**, which is about 2.5x the pop in 1800, 4.5x times that in 1600, 7x that in 1300, and 15x of 1 AD, meaning a death count in 1600 would have to be multiplied by 4.5 to compare the destructiveness of two events across time (p. 193).
 
-Pinker quotes Taversky and Kanheman on the **availability heurisitc**, a mental shortcut people make where they exaggerate the probability of certain events based on their recent experiences with them (e.g. plane crashes and shark attacks get headlines but electrocutinos, falls and drownings do not).
+Pinker quotes Taversky and Kanheman on the **availability heuristic**, a mental shortcut people make where they exaggerate the probability of certain events based on their recent experiences with them (e.g. plane crashes and shark attacks get headlines but electrocutions, falls and drownings do not).
 
 Correcting for population leads to one of the most fascinating data charts in the book:
 
@@ -248,15 +248,15 @@ The bloodiest wars in history then were:
 
 There were four atrocities before WWI that killed more people than that war (p. 194). Of the 21 worst things that people have ever done to each other (that we know of) 14 were done in centuries before the 20th (**66%**). When you scale by population only 1 20th C event makes the top 10 and at spot 9. The An Lushan Revolt and Civil War, according to censuses of the time, resulted in the deaths of 1/6th of the world's population.
 
-While many observers focus on the technological methods of 20th century killing lack of technology didn't stopp mass killings in Rwanda or Cambodia. Today **8 percent** of men who live within the former territory of the Mongol Empire share a Y chromosome that dates o around the time of Genghis Khan is plausibly attributed to him (p. 196).
+While many observers focus on the technological methods of 20th century killing lack of technology didn't stop mass killings in Rwanda or Cambodia. Today **8 percent** of men who live within the former territory of the Mongol Empire share a Y chromosome that dates o around the time of Genghis Khan is plausibly attributed to him (p. 196).
 
-While the numbers of historical killings are often inaccurate we also have a lot less records from those periods to begin with (p. 198). Besides this, Richardson also faced the problem of how to group conflicts: are the two World Wars one war or two? To bring some rigor into the analysis Richardson adopted two techniques: when faced with two conflicts that could be grouped or separated he alternated between grouping and separating, figuring this would balance out in the end (a common math technique). He also assigned each quarral a magnitude on a logarithmic scale base 10 (0 = 1, 1 = 1, 2 = 100, 3 = 1,000, 4 = 10,000, etc).
+While the numbers of historical killings are often inaccurate we also have a lot less records from those periods to begin with (p. 198). Besides this, Richardson also faced the problem of how to group conflicts: are the two World Wars one war or two? To bring some rigor into the analysis Richardson adopted two techniques: when faced with two conflicts that could be grouped or separated he alternated between grouping and separating, figuring this would balance out in the end (a common math technique). He also assigned each quarrel a magnitude on a logarithmic scale base 10 (0 = 1, 1 = 1, 2 = 100, 3 = 1,000, 4 = 10,000, etc).
 
 ## War and probability
 
-One of the hardest to understand but most important conclusions from Richardson's statistical analyisis is that **wars happen randomly**.
+One of the hardest to understand but most important conclusions from Richardson's statistical analysis is that **wars happen randomly**.
 
-Humans seek patterns and have a hard time rationilizing randomness and understanding probability. A **Poisson process** (pronounced *pwah-sonh*), named after 19th C mathematician and physicist Sim&eacute;on-Denis Poisson, is where events occur continuously, randomly, and independently of one another. Humans adopt cognitive illusions to patternize Poisson processes, e.g.:
+Humans seek patterns and have a hard time rationalizing randomness and understanding probability. A **Poisson process** (pronounced *pwah-sonh*), named after 19th C mathematician and physicist Sim&eacute;on-Denis Poisson, is where events occur continuously, randomly, and independently of one another. Humans adopt cognitive illusions to patternize Poisson processes, e.g.:
 
 - **the gambler fallacy** ('number 7 is due to come up next')
 - **the birthday paradox** (with 57 people in a room the chances two people share a birthday is 99%, creating the illusion of a cluster)
@@ -268,9 +268,9 @@ Richardson showed in his dataset of violence that war events are guided by a Poi
 
 It's not that wars don't have individual causes (assassination of Franz Ferdinand, whims of Adolf Hitler) but when one zooms out to a larger perspective to look at human aggression wars between human collectives start and stop with random frequency (p. 209).
 
-Once wars have been categorized logarthimically and plotted over time, what is the underlying trend?
+Once wars have been categorized logarithmically and plotted over time, what is the underlying trend?
 
-In none of the 5 ranges (3-7) did Richardson find an incrase, in fact he found a significant decline:
+In none of the 5 ranges (3-7) did Richardson find an increase, in fact he found a significant decline:
 
 > There is a suggestion but not a conclusive proof that mankind has become less warlike since A.D. 1820. The best available observations show a slight decrease in the number of wars with time. (p. 210).
 
@@ -284,5 +284,4 @@ Since wars follow a power-law distribution there are certain properties we can a
 
 - There is no finite mean aka no "typical war"
 - It's scale-free; if you zoom in on any point the distribution looks the same
-- They have "thick tails", aka extreme values are **extremely unlikely but not astronomically uniikely**
-
+- They have "thick tails", aka extreme values are **extremely unlikely but not astronomically unlikely**
