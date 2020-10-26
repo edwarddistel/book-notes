@@ -32,11 +32,11 @@ By a lot.
 
 A breakdown of the numbers:
 
-> [Two new data sets] conservatively list about 40 million battle deaths during the 20th cenutry...If we consider that a bit more than 6 billion people died during the 20th century...we may estimate that around 0.7 percent of the world's population died in battles during that century. Even if we tripled or quadrupled the estimate to include indirect deaths from war-caused famine and disease, it would barely narrow the gap between state and nonstate societies. What if we added the deaths from genocides, purges and other man-made disasters? Matthew White, the atrocitologist we met in chapter 1, estimates that around 80 million deaths can be blamed on all of these human causes put together. That still amounts to only 3 percent of the deaths in the 20th century. (p. 50)
+> [Two new data sets] conservatively list about 40 million battle deaths during the 20th cenutry...If we consider that a bit more than **6 billion** people died during the 20th century...we may estimate that around **0.7 percent** of the world's population died in battles during that century. Even if we tripled or quadrupled the estimate to include indirect deaths from war-caused famine and disease, it would barely narrow the gap between state and nonstate societies. What if we added the deaths from genocides, purges and other man-made disasters? Matthew White, the atrocitologist we met in chapter 1, estimates that around **80 million** deaths can be blamed on all of these human causes put together. That still amounts to only **3 percent** of the deaths in the 20th century. (p. 50)
 
-For hunter-gatherers the rate is around 13.4 percent, for city-dwellers before the modern era it was 2.7 percent.
+For hunter-gatherers the rate is around **13.4** percent, for city-dwellers before the modern era it was **2.7 percent**.
 
-For present day? Pinker estimates it's at a rate of 0.0003 percent.
+For present day? Pinker estimates it's at a rate of **0.0003 percent**.
 
 As Pinker is quick to point out, the major difference maker is the state, which he calls "the Leviathian" (borrowing from 16th C English philosophy Thomas Hobbes), a theoretically neutral third party can establish justice and eliminate threats in the society.
 
@@ -145,7 +145,7 @@ Pinker singles out religion for de-humanizing out-group peoples as blasphemers, 
 
 One influential writer against barbarity was 18th century Milanese economist and social scientist Cesare Beccaria, whose 1764 bestseller *On Crimes and Punishments* argued the goal of a justice system should be to attain the greatest happiness to the greatest number of people, that punishment should be used as a deterrent and be proportional to the harm of the crime. The Vatican banned the book but over time his arguments became common wisdom (p. 148).
 
-# Slavery
+## Slavery
 
 Between the 16th and 19th centuries at least **1.5 million** Africans died in transatlantic slave ships (p. 153) and millions more perished in forced marches through jungles and deserts. At last **17 million** (and perhaps as many as **65 million**) died in the slave trade (p. 154).
 
@@ -153,13 +153,13 @@ The economic benefit of slaves has been debated for centuries but even Adam Smit
 
 "The Age of Reason and the Enlightenment brought many violent institutions to a sudden end. Two others had more staying power...tyranny, and war between major states," Pinker notes (p. 158).
 
-# Depostism and political violence
+## Depostism and political violence
 
 A government, according to a famous characterization by 20th C German sociologist Max Weber, is an institution that holds a monopoly on the legitimate use of violence, and according to anthropologist Laura Betzig that virtually all of the Bronze Age and Iron Age societies (Babylonians, Hebrews, Imperial Romans, Samoans, Khmer, Aztec, etc) demonstrated despotism (p. 158).
 
 In most of human history the primary mechanism for the transfer of power was political murder (p. 159). E.g. Biblical kings Saul, David, Solomon; Julius Caesar was one of 34 Roman emperors assassinated (**34/49**, or **69%** until division of empire). Swiss criminologist Manuel Eisner stimates between 600 and 1800 AD about **1/8 (12.5%)** Euroepean monarchs were murdered in office (p. 159). The designs of democracies in the 18th century, despite their obvious flaws (e.g. slavery), led to a decline in despotism.
 
-# Reasons for peace
+## Reasons for peace
 
 The 18th century saw the rise of philosophers who questioned war, satirists who mocked it but also the theory of **gentle commerce**, that "positive-sum payoff of trade should be more appealing than the zero- or negative-sum payoff of war" (p. 165), most notably the 1795 essay "The Perpetual Peace" by German philsopher Immanuel Kant, who laid 6 preliminary steps toward peace:
 
@@ -178,7 +178,7 @@ Followed by 3 sweeping principles:
 
 While Kant's ideas did no spare the next 150 years of violence they did change some of the fundamental thinking of intellectuals and leaders (p. 167).
 
-# Root cause of the Humanitarian Revolution
+## Root cause of the Humanitarian Revolution
 
 What was the cause of this humanitarian revolution that saw a greater respect for individual autonomy? Less murder, slavery, less political violence?
 
@@ -192,7 +192,7 @@ Before Pinker settles in on his major thesis of the book:
 
 > The **growth of writing and literacy** [emphasis mine] strikes me as the best candidate for an exogenous change that helped set off the Humanitarian Revolution...the expansion of people's minds could have added a dose of humanitarianism to their emotions and beliefs. (p. 174).
 
-# Rise of empathy
+## Rise of empathy
 
 "Reading is a technology for perspective-taking," (p. 175) and European History professor Lynn Hunt points out that "the heyday of the Humanitarian Revolution, the late 18th century, was also the heyday of the epistolary novel" (p. 176) and that "the full-strength causal hypothesis may be omre than a fantasy of English teachers" (p. 177) by pointing out influental novels like *Oliver Twist* (1838), *Uncle Tom's Cabin* (1852) and *All Quiet on the Western Front* (1929) just to name a few.
 
@@ -204,7 +204,56 @@ Pinker argues that when a large community of free thinkers guided by logical pri
 
 Skepticism, reason are the key qualities that drove such movements, and the "commmonality of basic human responses across cultures" implies there is a universal human nature (p. 182) and that the "universality of reason...defines a place for morality." That morality leads to mutually beneficial cooperation (a concept he zeroes in on at the end of the book when he discussed how most life situations can be seen as an Iterated Prisoner's Dilemma). The idea that Pinker is building is that morality, guided by the idea of the universality of human nature, provides a framework to engage in mutually beneficial cooperation and the overall long-term progress of the human race.
 
-Some will find this argument "banal and obvious" (p. 183) but that's only because the lessons of the Enlightenment have been so thoroughly absorbed. In his earlier book **The Blank Slate** (2002) Pinker quotes himself as arguing that conservatives and liberals have two extreme visions of human nature: "a Tragic vision that is resigned to its flaws, an a Utopian vision that denies it exists" (p. 186), but the human mind is not a blank slate and should be guided by logic and reason.
+Some will find this argument "banal and obvious" (p. 183) but that's only because the lessons of the Enlightenment have been so thoroughly absorbed. In his earlier book *The Blank Slate* (2002) Pinker quotes himself as arguing that conservatives and liberals have two extreme visions of human nature: "a Tragic vision that is resigned to its flaws, an a Utopian vision that denies it exists" (p. 186), but the human mind is not a blank slate and should be guided by logic and reason.
 
 # The Long Peace
 
+Writing directly after World War II, Lewis Fry Richardson was a 20th C British meterologist, psychologist and applied mathematician who applied statistical analysis to a dataset of hundreds of violent conflicts spanning more than a century to predict that despite the horrible bloodshed the world had just endured humanity was getting more peaceful over time (p. 190).
+
+The second half of the 20th C saw a "historically unprecedented" avoidance of war between the great powers which Yale historian John Gaddis has dubbed **The Long Peace**, which was followed by the "equally astonishing" fizzling of the Cold War.
+
+Pinker argues that the components of the long-term trends in wars between states are:
+
+- No cycles
+- Lots of randomness
+- An escalation, recently reversed, in the destructiveness of war
+- Declines in every other dimension of war, and thus in interstate war as a whole
+
+## 20th Century
+
+Was the 20th C really the most violent century of all time?
+
+It's impossible to know because of lack of statistics (we can barely pin down the 20th C) but reasons to be skeptical of the claim: population in in 1950 was **2.5 billion**, which is about 2.5x the pop in 1800, 4.5x times that in 1600, 7x that in 1300, and 15x of 1 AD, meaning a death count in 1600 would have to be multiplied by 4.5 to compare the desctructiveness of two events across time (p. 193).
+
+Pinker quotes Taversky and Kanheman on the **availability heurisitc**, a mental shortcut people make where they exaggerate the probability of certain events based on their recent experiences with them (e.g. plane crashes and shark attacks get headlines but electrocutinos, falls and drownings do not).
+
+Correcting for population leads to one of the most fascinating data charts in the book:
+
+![Adjusted Death Toll](../img/better-angels-02.jpg)
+
+The bloodiest wars in history then were:
+
+| Rank | War | Death toll by pop |
+| ---- | --- | ----------------- |
+| 1 | An Lushan Revolt (8th C)  | 429 mil |
+| 2 | Mongol Conquests (13th C) | 278 mil |
+| 3 | Mideast slave trade (7-19th C) | 132 mil |
+| 4 | Fall of Ming Dynasty (17th C) | 112 mil |
+| 5 | Fall of Rome (3-5th C) | 105 mil |
+| 6 | Timur Lenk (14-15h C) | 100 mil |
+| 7 | Annihilation of American Indians (15-19th C) | 92 mil |
+| 8 | Atlantic slave trade (15-19th C) | 83 mil |
+| 9 | Second World War | 55 mil |
+| 10 | Taiping Rebellion (19th C) | 40 mil |
+
+There were four atrocities before WWI that killed more people than that war (p. 194). Of the 21 worst things that people have ever done to each other (that we know of) 14 were done in centuries before the 20th (**66%**). When you scale by population only 1 20th C event makes the top 10 and at spot 9. The An Lushan Revolt and Civil War, according to censuses of the time, resulted in the deaths of 1/6th of the world's population.
+
+While many observers focus on the technological methods of 20th century killing lack of technology didn't stopp mass killings in Rwanda or Cambodia. Today **8 percent** of men who live within the former territory of the Mongol Empire share a Y chromosome that dates o around the time of Genghis Khan is plausibly attributed to him (p. 196).
+
+While the numbers of historical killings are often inaccurate we also have a lot less records from those periods to begin with (p. 198). Besides this, Richardson also faced the problem of how to group conflicts: are the two World Wars one war or two? To bring some rigor into the analysis Richardson adopted two techniques: when faced with two conflicts that could be grouped or separated he alternated between grouping and separating, figuring this would balance out in the end (a common math technique). He also assigned each quarral a magnitude on a logarithmic scale base 10 (0 = 1, 1 = 1, 2 = 100, 3 = 1,000, 4 = 10,000, etc).
+
+## War and probability
+
+One of the hardest to understand but most important conclusions from Richardson's statistical analyisis is that **wars happen randomly**.
+
+Humans seek patterns and have a hard time rationilizing randomness and understanding probability. A **Poisson process** (pronounced *pwah-sonh*), named after 19th C mathematician and physicist Sim&eacute;on-Denis Poisson, is where events occur continuously, randomly, and independently of one another. Humans adopt cognitive illusions to patternize Poisson processes, i.e. **the gambler fallacy** ('number 7 is due to come up next'), **the birthday paradox** (with 57 people in a room the chances two people share a birthday is 99%, creating the illusion of a cluster), **Constellations** (Seeing patterns in stars and other random noise) are all examples (p. 204).
