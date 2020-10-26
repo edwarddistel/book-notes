@@ -87,7 +87,7 @@ He argues violence is caused by a "surfeit" of morality and justice, at least in
 
 # Violence around the world
 
-Quoting statistics from the World Health Organization's 2004 data set:
+Quoting statistics from the World Health Organization's 2004 data set (p. 87):
 
 | Area | Homicide rate/100K/year |
 | ---- | ----------------------- |
@@ -96,18 +96,15 @@ Quoting statistics from the World Health Organization's 2004 data set:
 | Europe | 3 |
 | China | 2.2 |
 
-
-p. 87
-
 # Violence in the United States
 
 Violence in the US nose-dived in the 1930s, skyrocketed in the 1960s, nosedived again in the 1990s.
 
-Between 1976 and 2006 the average homicide rate for white Americans was 4.8, while the average rate for black Americans was 36.9. In the 1960s the rate of homicide for African Americans in NYC was 13x the rate of that of whites because, Pinker says, "African Americans were effectively stateless, relying on a culture of honor (sometimes called "the code of the streets") to defend their interests rather than calling in the law." (p. 98)
+Between 1976 and 2006 the average homicide rate for white Americans was **4.8**, while the average rate for black Americans was **36.9**. In the 1960s the rate of homicide for African Americans in NYC was **13x** the rate of that of whites because, Pinker says, "African Americans were effectively stateless, relying on a culture of honor (sometimes called "the code of the streets") to defend their interests rather than calling in the law." (p. 98)
 
 The South is consistently more violent than the North -- and not because it has more African Americans, southern African Americans are statistically more violent than northern ones -- but "the most sweeping answer is that the civilizing mission of government never penetrated the American South as deeply as it had in the Northeast." (p. 98-99) 
 
-The West was especially violent because it was effectively stateless -- the CA gold rush of 1848 saw homicide rates of 83/100K (p. 103), it wasn't until an influx of women arrived that the West was tamed (p. 105).
+The West was especially violent because it was effectively stateless -- the CA gold rush of 1848 saw homicide rates of **83/100K** (p. 103), it wasn't until an influx of women arrived that the West was tamed (p. 105).
 
 # Decivilization in the 1960s
 
@@ -150,6 +147,47 @@ One influential writer against barbarity was 18th century Milanese economist and
 
 # Slavery
 
-Between the 16th and 19th centuries at least 1.5 million Africans died in transatlantic slave ships (p. 153) and millions more perished in forced marches through jungles and deserts. At last 17 million (and perhaps as many as 65 million) died in the slave trade (p. 154).
+Between the 16th and 19th centuries at least **1.5 million** Africans died in transatlantic slave ships (p. 153) and millions more perished in forced marches through jungles and deserts. At last **17 million** (and perhaps as many as **65 million**) died in the slave trade (p. 154).
 
 The economic benefit of slaves has been debated for centuries but even Adam Smith in 1776 argued that slavery was inefficient because a slave would not be motivated to do any work beyond the bare minimum necessary since they had nothing to gain from it.
+
+"The Age of Reason and the Enlightenment brought many violent institutions to a sudden end. Two others had more staying power...tyranny, and war between major states," Pinker notes (p. 158).
+
+# Depostism and political violence
+
+A government, according to a famous characterization by 20th C German sociologust Max Weber, is an institution that holds a monopoly on the legitimate use of violence, and according to anthropologist Laura Betzig that virtually all of the Bronze Age and Iron Age societies (Babylonians, Hebrews, Imperial Romans, Samoans, Khmer, Aztec, etc) demonstrated despotism (p. 158).
+
+In most of human history the primary mechanism for the transfer of power was political murder (p. 159). E.g. Biblical kings Saul, David, Solomon; Julius Caesar was one of 34 Roman emperors assassinated (**34/49**, or **69%** until division of empire). Swiss criminologist Manuel Eisner stimates between 600 and 1800 AD about **1/8 (12.5%)** Euroepean monarchs were murdered in office (p. 159). The designs of democracies in the 18th century, despite their obvious flaws (e.g. slavery), led to a decline in despotism.
+
+# Reasons for peace
+
+The 18th century saw the rise of philosophers who questioned war, satirists who mocked it but also the theory of **gentle commerce**, that "positive-sum payoff of trade should be more appealing than the zero- or negative-sum payoff of war" (p. 165), most notably the 1795 essay "The Perpetual Peace" by German philsopher Immanuel Kant, who laid 6 preliminary steps toward peace:
+
+1. Ironclad ceasefires
+1. States should not absorb other states 
+1. Abolition of standing armies
+1. No gov borrowing to finance wars
+1. States should not interfere with internals of other states
+1. In war states should avoid underhanded tactics like poisonings, assassinations etc) 
+
+Followed by 3 sweeping principles:
+
+1. States should be democratic republican
+1. There should be a United Nations ("Federation of Free States")
+1. Universal citizenship ("hospitality") so citizens could live and travel freely
+
+While Kant's ideas did no spare the next 150 years of violence they did change some of the fundamental thinking of intellectuals and leaders (p. 167).
+
+# Root cause of the Humanitarian Revolution
+
+What was the cause of this humanitarian revolution that saw a greater respect for individual autonomy? Less murder, slavery, less political violence?
+
+Pinker examines several theories:
+
+- Civilization Process of manners (but timeline does not overlap with Humanitarian Revolution) (p. 170)
+- Economic development, that as people get richer life is less cheap but historically the rich have often been cruel (p. 171)
+
+Before Pinker settles in on his major thesis of the book:
+
+```
+The **growth of writing and literacy** [emphasis mine] strikes me as the best candidate for an exogenous change that helped set off the Humanitarian revolution 
