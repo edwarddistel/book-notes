@@ -70,7 +70,7 @@ He writes:
 
 The empathy and self-control arguments loom large later in the book but I'm not convinced they were prerequisites to financial success in an evolving capitalist system -- it seems obvious to note there are hundreds of famous examples of ruthless and unempathetic people without much self-control who became fabulously wealthy in such systems.
 
-# Violence and poverty
+## Violence and poverty
 
 He also notes that the upper-class used to be as violent as the lower class (quoting several manners guides that recommended boxing and fighting others) but now violence is largely associated with poverty:
 
@@ -85,7 +85,7 @@ Pinker also disputes three commonly held theories of violence:
 
 He argues violence is caused by a "surfeit" of morality and justice, at least in the perpetrator's head, that he has been wronged; that a disease by definition causes harm to the individual, and that violent individual attack because they're angry at perceived injustices.
 
-# Violence around the world
+## Violence around the world
 
 Quoting statistics from the World Health Organization's 2004 data set (p. 87):
 
@@ -96,7 +96,7 @@ Quoting statistics from the World Health Organization's 2004 data set (p. 87):
 | Europe | 3 |
 | China | 2.2 |
 
-# Violence in the United States
+## Violence in the United States
 
 Violence in the US nose-dived in the 1930s, skyrocketed in the 1960s, nosedived again in the 1990s.
 
@@ -106,7 +106,7 @@ The South is consistently more violent than the North -- and not because it has 
 
 The West was especially violent because it was effectively stateless -- the CA gold rush of 1848 saw homicide rates of **83/100K** (p. 103), it wasn't until an influx of women arrived that the West was tamed (p. 105).
 
-# Decivilization in the 1960s
+## Decivilization in the 1960s
 
 After a three-decade fall in violence in the U.S. from the Great Depression to post-WW2 the homicide rate more than doubled from 4 in 1957 to 10.2 in 1980 (p. 107). He disputes the theory that this was the result of the baby boom but the rise in violence (135%) doesn't match up with the increase in population (13%) (p. 108).
 
@@ -116,7 +116,7 @@ The second exogenous force he locates from sociologist Cas Wouters, who argued t
 
 While breaking down old power structures may have served the long-term good it led to a short-term rise in violence, according to Pinker. Men abandoned institutions like marriage and traditional career roles (i.e. farmwork) to pursue sexual and economic freedom, and that this process hit the African American community particular hard because of pervasive racism among police and government authorities (p. 116).
 
-# Recivilization in the 1990s
+## Recivilization in the 1990s
 
 Even tho the homicide rate ballooned to 10.2/100K in 1980 it's still a 1/4 of the rate for Western Europe in 1450, 1/10th of the rate of the traditional Inuit and 1/50th the average rate of nonstate societies.
 
@@ -279,3 +279,10 @@ Other data sets confirm this, that the pattern of war was less over time **but**
 It turns out the frequency of war when measured with their magnitudes over time follows a **power-law distribution** (the name comes from the fact that when you put away the logarithms and go back to the original numbers the probability of an entity showing up in the data is proportional to the size of that entity raised to some power plus a constant). In this case the power is -1.5, which means that with every tenfold jump in the death toll of a war you can expect to find about a third as many of them.
 
 ![Power-law distribution of wars](../img/better-angels-03.jpg)
+
+Since wars follow a power-law distribution there are certain properties we can ascribe to them (p. 215):
+
+- There is no finite mean aka no "typical war"
+- It's scale-free; if you zoom in on any point the distribution looks the same
+- They have "thick tails", aka extreme values are **extremely unlikely but not astronomically uniikely**
+
