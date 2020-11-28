@@ -285,3 +285,57 @@ Since wars follow a power-law distribution there are certain properties we can a
 - There is no finite mean aka no "typical war"
 - It's scale-free; if you zoom in on any point the distribution looks the same
 - They have "thick tails", aka extreme values are **extremely unlikely but not astronomically unlikely**
+- Often devolve into wars of attribution, where best strategy is to wait a random amount of time but humans conditioned not to
+
+## What's bloodier: a few big wars or lots of small wars?
+
+The most damaging kinds of lethal vioelnce are murders and world wars (p. 221) - in the US 37K soldiers in the Korean War, 58K in the Vietnam war, and an average of 17K people per year are murdered domestically; add that last number up eveyr year since 1950 and you have ~1 million.
+
+Richardson estimates all the deaths from murders and wars of all magnitudes combined to be at about **1.6 percent**, significantly less than disease by a large margin.
+
+About **77 percent** of deaths over a 130-year period came from the two world wars, an **80:2 rule**: about 80% of the deaths over that 130-year span were caused by **2%** of wars, suggesting the highest priority should be given to avoiding world wars (p. 222).
+
+Richardson reached two broad conclusions: the timing of wars is random and their magnitudes are distributed according to a power law. Political scientist Jack Levy has assembled an imperfect data set of wars from 1400 onward that focuses on the "great power system" and found that the most powerful nations are typically responsible for most global mayhem (p. 223) -- the great powers participated in about **70%** of all wars:
+
+## European War from 1400 onward
+
+> The career of organized violence in europe, then, lookins something like this. There was a low but steady baseline of conflicts from 1400 to 1600, followed by the bloodbath of the Wars of Religion, a bumpy decline through 1775 followed by the French troubles, a noticeable lull in the middle and late 19th century and then, after the 20th-century Hemoclysm, the unprecedented ground-hugging levels of the Long peace. p. 231
+
+War was often a mechanism for financial and social advancement for the landed classes of Europe, but more also "the spiritual need for dominance, glory and grandeur" (p. 232), hence all the titles, courties and seating arrangements from that era.
+
+Pinker cites the 1986 work "War in International Society" by British Labour politician Evan Luard as "the most systematic attempt to combine a dataset of war with a narrative history" (p. 232) and one that divides modern war into five eras:
+
+1. 1400-1559 **Age of Dynasties** when royal houses based on kinship vied for control of European turfs
+2. 1559-1648 **Age of Religions** when mainly Protestants and Catholics vied for control of Europe
+3. 1648-1789 **Age of Sovereignty** when small territories morphed into larger entities (number of political units shrank from **500** in the 1640s to **30** in the 1950s)
+4. 1789-1917 **Age of Nationalism** when larger entities took on an identity as a state, culminating in WWI
+5. 1917-present **Age of Ideology** when democracy battled against fascism, communism, etc
+
+Pinker cites Michael Howard that a better way to see the past two centuries is a battle for influence among four forces: **humanism, conservatism, nationalism** and **utopian ideologies** (p. 239). There was also a romanticism to militarism, where war was looked at as heroic activity of self-sacrifice, manliness and honor (p. 242).
+
+The Age of Ideology that began in 1917 was kicked off by "...the inevitabilist belief systems of the 19th century counter-Enlightenment. A romantic, militarized nationalism insspired with the expansionist programs of Fascist Italy and Imperial JApan, and with an additional dose of racial pseudoscience, Nazi Germany. The leadership of each of these countries railed against the decadent individualism and universalism of the modern liberal West, and each was driven by the conviction that it was destined to rule over a natural domain." (p. 244).
+
+British journalist Normal Angell published "The Great Illusion", a 1909 tract that argued that modern wars were economically futile. Angell is misremembered by many historians as having predicted war would never occur (and mocked for having done so on the eve of WWI) but in fact he did not, he instead argued that in a world where wealth grows out of exchange, credit and a division of labor, conquest cannot make a conquerer richer. Plunder may have been profitable in primitive economies but in the modern era miners must be paid to extract ore and farmers paid to work land.
+
+## Long Peace Statistics
+
+- **0** number of times nuclear weapons have been used since WWII
+- **0** number of times Cold War superpowers met each other directly on the battlefield
+- **0** number of times any Great Powers have fought each other since 1953
+- **0** number of times Western Europe have fought interstate wars since the end of WWII
+- **0** number of times there's been war between two major developer nations since WWII (minus 1956 Hungary invasion; 44 is the highest per-capita income rank)
+
+There's been a massive decline in drafts (p. 256), an increase in territorial integrity stability (p. 260) and an increasing cultural aversion to war, as reflected in novels, TV shows and movies. The U.S. invasions of Afghanistan and Iraq don't really compare to wars of the past because they were relatively quick and had low battle deaths (p. 266).
+
+## Nuclear weapons
+
+Here is one area where I disagree with Pinker the most: he dismisses the notion that nuclear weapons have had a major impact on the decrease of war, pointing out that companies without nuclear weapons also forgo war and why non-nuclear states that have engaged in war with nuclear states don't quickly submit (e.g. Iraq (p. 269).
+
+He also dismisses the billions spent on designing, storing and testing these weapons as the "sphere of hypotheticals" (p. 270). Wrong, wrong, wrong.
+
+## The long democratic, liberal peace
+
+Pinker spends a lot of time on some numbers that suggest, with a lot of caveats, that the more democratic and liberal a country is the less likely it is to fight wars, especially with other liberal democratic countries.
+
+# The New Peace
+
