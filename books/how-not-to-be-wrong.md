@@ -1,5 +1,6 @@
 # How Not to Be Wrong: The Power of Mathematical Thinking
 (2014)
+
 by Jordan Ellenberg
 
 - Abraham Wald, a Romanian mathematician who pointed out that planes should be reinforced where there were no bullet holes, because those plane carcasses were never recovered; an example of seeing a problem lacks all possible choices
